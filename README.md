@@ -1,2 +1,8 @@
-# Resume
-Актуальное резюме на русском и английском языках | My resume in Russian and English
+# Резюме / Resume
+
+Актуальные версии моего резюме:
+
+- [Resume.pdf](Resume.pdf) — English version
+- [Резюме.pdf](Резюме.pdf) — Русская версия
+
+Резюме обновляется регулярно.
